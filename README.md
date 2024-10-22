@@ -49,7 +49,15 @@ The following are the Univariate EDA performed
 
 # Multivariate Analysis
 
+- ANOVA ANALYSIS
+![ANOVA ANALYSIS](https://github.com/user-attachments/assets/4ac2f77e-c58e-433a-abb1-a9a726d3c4a9)
+
+- TWO WAY ANOVA ANALYSIS
 
 
+![TWO WAY ANOVA ANALYSIS](https://github.com/user-attachments/assets/50a97c83-0086-4259-997e-dec44454664a)
+
+
+![Screenshot 2024-10-22 123108](https://github.com/user-attachments/assets/b20738a3-bfe1-42a4-8521-4ee578026f30)
 
 
