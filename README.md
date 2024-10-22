@@ -26,7 +26,7 @@ Various Python methods such as .head, .describe, .info, and .shape were employed
 ![Outliers handled](https://github.com/user-attachments/assets/b75a0d10-b5eb-45d4-9e5d-ffb7655acec3)
 
 
-# Data Tranformation
+# Data Transformation
 
 Data was scaled using MinMaxScaler
 
@@ -60,4 +60,6 @@ The following are the Univariate EDA performed
 
 ![Screenshot 2024-10-22 123108](https://github.com/user-attachments/assets/b20738a3-bfe1-42a4-8521-4ee578026f30)
 
+# FULL PROJECT
+You can view full project on: https://colab.research.google.com/drive/1qYWCAABFiBcYjYJfWL_XEyuuUIMBPgkh#scrollTo=vT2nwGBWLXAo
 
